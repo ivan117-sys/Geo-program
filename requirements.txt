@@ -1,0 +1,4 @@
+pytest
+countryinfo
+requests
+sys
